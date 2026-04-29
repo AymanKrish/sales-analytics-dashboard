@@ -1,0 +1,6 @@
+date,product,region,sales
+2024-01-01,Phone,EU,500
+2024-01-02,Laptop,US,1200
+2024-01-03,Tablet,EU,700
+2024-01-04,Phone,US,800
+2024-01-05,Laptop,EU,1500
