@@ -23,7 +23,7 @@ The dataset includes:
   
 ## Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Structure
 
